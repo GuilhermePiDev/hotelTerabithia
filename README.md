@@ -43,6 +43,10 @@ Para a realização do projeto, foram utilizados: HTML e JavaScript.
 
 ### 9-Manutenção dos Ares Condicionados.<br/>
 
+<p align="center">
+<img src='https://img.playbuzz.com/image/upload/ar_1.5,c_crop/v1526420270/l3aos3a6jbe7c0zdrtnq.gif'>
+</p>
+
 ## Como acessar o projeto?
 Acessando pelo computador<br/>
 Pré-requisitos<br/>
