@@ -63,4 +63,5 @@ Abra a pasta 'HOTEL'
 Execute o arquivo 'Hotel.html'
 
 Importante!
+# Clique no botão para iniciar o programa
 # Você pode inserir qualquer nome de usuario e de hotel, porém a senha para acessar é sempre: "2678".
